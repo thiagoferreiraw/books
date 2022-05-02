@@ -3,6 +3,8 @@ A list of books I've read and recommend :) For each book I'll say a few words ab
 
 By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
+![image](https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy-downsized.gif)
+
 ## 2022
 
 **Humankind - A Hopeful History by Rutger Bregman:** This book covers several aspects of sociology, philosophy and psycology in a way to makes more hopeful with human nature. It's a very interesting read with many real life stories.
