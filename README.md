@@ -53,3 +53,5 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **Clean Coder, The: A Code of Conduct for Professional Programmers (Bob Martin)**: I read this one early in my career and it was one of the best things I could've done for myself. This book showed me what professionalism looks like, specially in the tech industry. I was able to avoid a lot of pain in the following years thanks to this book.
 
 **The Posthumous Memoirs of Brás Cubas (Machado de Assis)**: This one is in my top 2 of all time. A masterpiece written by a Brazilian author in the nineteenth century, this book has a very interesting format: the storyteller is already dead and he's telling the story about his life. This condition makes him very ironic and unpretentious because... well, he's already dead. The language is beaufitul to read and the flow of the book is also something that impressed me a lot.
+
+**Captains of the Sands (Jorge Amado)**: The only thing I have to say about this book: in 1937,the Brazilian government ordered that +800 copies of the book were burned in a public space, which was a violation of the free speech.
