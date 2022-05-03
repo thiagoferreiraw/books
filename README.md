@@ -1,5 +1,5 @@
 # Books
-A list of books I've read and recommend 📚 For each book, I'll say a few words about the things the caught my attention and the reasons why I liked it.
+A list of books I've read and recommend 📚 For each book, I'll say a few words about the things that caught my attention and the reasons why I liked it.
 
 By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
@@ -18,6 +18,8 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **Fluent Python (Luciano Ramalho)**: I also started this one over a year ago, but have just finished it in the beginning of the year. Must read for any python developers seeking to improve from the basics to intermediate and advanced.
 
 **Menino do Mato (Manoel de Barros)**: One of the last books by Manoel de Barros, a Brazilian author, this book delivers the style of the author in a very mature and refined way. The story is inspired by the childhood of the author and he tries to capture the world through the eyes of this boy, who seeks to understand and explain the world. Beautiful book!
+
+**The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient (William Irvine)**: Great book on Stoicism, combining a 2 thousand year old philosophy with the modern findings in psycology. Curiously, I think Stoicism has a lot to do with [Site Reliability Engineering](https://sre.google/books/) (by Google), specially in the way they recommend we deal with incidents.
 
 
 ## 2021
