@@ -47,3 +47,5 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **The Power of Habit (Charles Duhigg):** Great book to understand how we create our habits. For me, having such understanding is essential to build new habits and remove unwanted ones. Of course, I'm still a human, so I don't try to be perfect at getting those habits right and I'll have many failures. But even when I doesn't work as I expect, I can understand why it didn't work and adjust accordingly.
 
 **Site Reliability Engineering (Many authors at Google):** The book explains how Google manages their production systems, including explanations on how to manage incidents and outages, metrics, error budgets and a lot more. 
+
+**Consider the Fork: A History of How We Cook and Eat (Bee Wilson)**: Interesting book about how kitchen utensils changed over time and how that might have shaped history.
