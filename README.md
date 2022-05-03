@@ -1,5 +1,5 @@
 # Books
-A list of books I've read and recommend :) For each book I'll say a few words about what the things that touched the most.
+A list of books I've read and recommend 📚 For each book, I'll say a few words about the things the caught my attention and the reasons why I liked it.
 
 By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
