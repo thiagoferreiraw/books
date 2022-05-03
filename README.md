@@ -9,7 +9,7 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 📚 - Literature and novels (fiction)
 
-🌎 - General knowledge books, including phylosophy, antropology and other "real world things"
+🌎 - General knowledge books, including phylosophy, anthropology and other "real world things"
 
 ![image](https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy-downsized.gif)
 
