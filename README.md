@@ -49,3 +49,5 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **Site Reliability Engineering (Many authors at Google):** The book explains how Google manages their production systems, including explanations on how to manage incidents and outages, metrics, error budgets and a lot more. 
 
 **Consider the Fork: A History of How We Cook and Eat (Bee Wilson)**: Interesting book about how kitchen utensils changed over time and how that might have shaped history.
+
+**Clean Coder, The: A Code of Conduct for Professional Programmers (Bob Martin)**: I read this one early in my career and it was one of the best things I could've done for myself. This book showed me what professionalism looks like, specially in the tech industry. I was able to avoid a lot of pain in the following years thanks to this book.
