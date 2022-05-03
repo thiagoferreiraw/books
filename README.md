@@ -55,3 +55,7 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **The Posthumous Memoirs of Brás Cubas (Machado de Assis)**: This one is in my top 2 of all time. A masterpiece written by a Brazilian author in the nineteenth century, this book has a very interesting format: the storyteller is already dead and he's telling the story about his life. This condition makes him very ironic and unpretentious because... well, he's already dead. The language is beaufitul to read and the flow of the book is also something that impressed me a lot.
 
 **Captains of the Sands (Jorge Amado)**: The only thing I have to say about this book: in 1937,the Brazilian government ordered that +800 copies of the book were burned in a public space, which was a violation of the free speech.
+
+**Barren Lives: Vidas Secas (Graciliano Ramos)**: A masterpiece in Brazilian literature. Quoting from amazon, "A vivid chronicle of the solitary life of a peasant family in a harsh and unforgiving land, austerely told by a classic Brazilian writer."
+
+**O Cortiço (Aluísio de Azevedo)**: Influential Brazilian novel, the story takes place in the nineteenth century in Rio de Janeiro.
