@@ -33,9 +33,9 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 ## 2021
 **🌎 The Great Mental Models Volume 1: General Thinking Concepts (Shane Parrish):** Excellent book about using multidisciplinary thinking concepts to solve real world problems. 
 
-**📚 To kill a mockingbird (Harper Lee)**: A north american classic, the story is beautiful and yet heartbreaking. It takes place in the south of the United States in the beginning of the nineteenth century, discussing several aspects of rascism and social structures.
-
 **🌎 Start with Why (Simon Sinek)**: An inspiring book about innovation, motivation and purpose. It also combines some aspects of human biology/nature and explain how that plays out in our relationships. It also contains many interesting stories on how Apple and other companies "started with why" and were able to innovate in their fields.
+
+**📚 To kill a mockingbird (Harper Lee)**: A north american classic, the story is beautiful and yet heartbreaking. It takes place in the south of the United States in the beginning of the nineteenth century, discussing several aspects of rascism and social structures.
 
 ## 2020
 
