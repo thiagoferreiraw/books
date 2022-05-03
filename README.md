@@ -27,6 +27,8 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 **To kill a mockingbird (Harper Lee)**: A north american classic, the story is beautiful and yet heartbreaking. It takes place in the south of the United States in the beginning of the nineteenth century, discussing several aspects of rascism and social structures.
 
+**Start with Why (Simon Sinek)**: An inspiring book about innovation, motivation and purpose. It also combines some aspects of human biology/nature and explain how that plays out in our relationships. It also contains many interesting stories on how Apple and other companies "started with why" and were able to innovate in their fields.
+
 ## 2020
 
 **Frankestein (Mary Shelley):** One of my favorite books of all time, written by Mary Shelley in her teens. It is an extremely beautiful and pleasant reading. About the story, I would not say the main point is about creating a monster. For me, the main thing about this book is that is delivers a rich story about abandon, solitude, justice and social responsibility. 
