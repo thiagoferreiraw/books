@@ -17,6 +17,9 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 **Fluent Python (Luciano Ramalho)**: I also started this one over a year ago, but have just finished it in the beginning of the year. Must read for any python developers seeking to improve from the basics to intermediate and advanced.
 
+**Menino do Mato (Manoel de Barros)**: One of the last books by Manoel de Barros, a Brazilian author, this book delivers the style of the author in a very mature and refined way. The story is inspired by the childhood of the author and he tries to capture the world through the eyes of this boy, who seeks to understand and explain the world. Beautiful book!
+
+
 ## 2021
 **The Great Mental Models Volume 1: General Thinking Concepts (Shane Parrish):** Excellent book about using multidisciplinary thinking concepts to solve real world problems. 
 
