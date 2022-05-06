@@ -29,6 +29,8 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 **🤖 Fluent Python (Luciano Ramalho)**: I also started this one over a year ago, but have just finished it in the beginning of the year. Must read for any python developers seeking to improve from the basics to intermediate and advanced.
 
+**🤖 Descontruindo a web - As tecnologias por trás de uma requisição (Willian Molinari)**: Great book about all the steps involved in a request to a web server. It provides detailed insights about how things works from the operating system to the web application.
+
 
 ## 2021
 **🌎 The Great Mental Models Volume 1: General Thinking Concepts (Shane Parrish):** Excellent book about using multidisciplinary thinking concepts to solve real world problems. 
