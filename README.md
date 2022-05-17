@@ -70,3 +70,33 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 **📚 Barren Lives: Vidas Secas (Graciliano Ramos)**: A masterpiece in Brazilian literature. Quoting from amazon, "A vivid chronicle of the solitary life of a peasant family in a harsh and unforgiving land, austerely told by a classic Brazilian writer."
 
 **📚 O Cortiço (Aluísio de Azevedo)**: Influential Brazilian novel, the story takes place in the nineteenth century in Rio de Janeiro.
+
+
+## My tips and tricks for reading more
+### Selecting the right books for you
+I'll quote  [Patrick Collison's Manifesto on Reading](https://www.youtube.com/watch?v=zkh3BHP6KJ0&t=2s&ab_channel=TheKnowledgeProject) (CEO of Stripe). Basically, of all books, there is a set of books that are worth reading. Inside that set, we have a subset of books that are pleasant to read. The subset of books (worth reading + pleasant to read) is enourmous and certainly bigger than all the books you can read in your lifetime.
+
+The bottom line of all of this is: if you are struggling too much to read a book, just move one to another one. Perhaps the style of the book is not necessarily for you and that's perfectly fine. Usually, any person that reads a lot starts more books than they finish. 
+
+I also should add that perhaps it will take some time for books to become pleasant to read and we might certainly have to develop the "taste" for them. Speaking personally, depending on period in my life I would enjoy different books at different times, which is also ok. There are many books that I know are worth reading AND pleasant to read, but I still need time to develop the ability to enjoy those certain books.
+
+![image](https://user-images.githubusercontent.com/9268203/168900292-8b126940-fbd5-4658-81e0-00ab4ab59e53.png)
+
+
+### Paper books or kindle?
+It depends on what works best for you. In my previous years, I spent a lot of time commuting to work/school everyday, which made Kindle a great choice for me. I could simply carry a small device and have several books available. I could also read at night in the bus, since I have a kindle paperwhite.
+
+Kindle has its problems, too. If you are reading a book with lots of images, tables, charts, it's really not a good deal to read on the kindle. It's simply not built for that.
+
+There one thing about Kindle that I like a lot: book samples. You can get a whole chapter of a book for free and see if you like it. You can get a lot of samples and only pay for the book WHEN/IF you actually read it. This is something great that allows me to try out many books without having to pay upfront.
+
+Currently, since I have been working remotely for the past few years, I have been enjoying more paper books. It's easier to read the foot notes and also to make my own notes in the book and it feels great.
+
+In summary, I have been balancing the usage of kindle + paper books and it's working great for me, since I can take advantage of the best things in each format.
+
+### Reading fiction
+When reading fiction, it's important to understand that the book is trying to take you on an experience and your attitude towards that matters a lot.
+
+Take for example that you are reading Harry Potter. If you read the book thinking "Oh but this isn't true, there isn't magic in the real world", your experience will be miserable.
+
+My advice is: just let the story take you wherever it want to. See how it goes and judge later. 😃
