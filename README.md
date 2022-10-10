@@ -15,6 +15,10 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 ## 2022
 
+**🤖 How to Lie with Statistics (Darrell Huff)**: Excellent book to get a better understanding on statitics concepts. This book was published in 1954, but remains as relevant as ever.
+
+**🌎 The Great Mental Models Volume 2: Physics, Chemistry and Biology (Shane Parrish)**: Second edition of this marvelous book. Really useful to fill some knowledge gaps and understand how the world works.
+
 **🌎 Humankind - A Hopeful History (Rutger Bregman):** This book covers several aspects of sociology, philosophy and psychology in a way that make us more hopeful with human nature. It's a very interesting read with many real life stories.
 
 **🌎 A Little History of Philosophy (Nigel Warburton):** I actually started reading this many years ago, but ended up forgetting about it 😅 So this year after reading Humankind (mentioned above) I felt it was a good time to finish it and get more context of what I had just read. The book covers briefly many philosophers and schools of thought.
