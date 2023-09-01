@@ -15,6 +15,9 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 ## 2023
 
+**🌎 The Great Mental Models Volume 3: Systems and Mathematics**: Third book of the series, excellent and meaningful content as always. It approaches several math/systems concepts really useful for any software engineering.
+
+
 **🤖 The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change (Tanya Reilly)**: The Staff engineer role is somewhat new in the industry and this book beautifully maps all the complexity involved in the role.
 
 **🌎 It Was the Best of Sentences, It Was the Worst of Sentences: A Writer's Guide to Crafting Killer Sentences (June Casagrande)**: This book explains some grammar concepts with the goal of improving wrtiten communication and tweaking sentences to get your point accross effectively. Important knowledge for any person working remotely and relying on async communications to get the job done.
