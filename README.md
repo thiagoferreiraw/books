@@ -1,5 +1,5 @@
 # Books
-A list of books I've read and recommend 📚 For each book, I'll say a few words about the things that caught my attention and the reasons why I liked it.
+A list of books I've read and recommend 📚 For each book, I'll say a few words about the things that caught my attention and why I liked it.
 
 By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
@@ -12,6 +12,10 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 🌎 - General knowledge books, including phylosophy, anthropology and other "real world things"
 
 ![image](https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy-downsized.gif)
+
+## 2024
+
+- **🤖 Tidy First?: A Personal Exercise in Empirical Software Design (Kent Back)**: Fantastic book compiling years of learning on software design, and how that can be leveraged to decrease the cost of building software.
 
 ## 2023
 
