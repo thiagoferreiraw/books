@@ -15,7 +15,7 @@ By [Thiago Ferreira](https://thiagoferreiraw.github.io/thiagoferreiraw/)
 
 ## 2024
 
-- **🤖 Tidy First?: A Personal Exercise in Empirical Software Design (Kent Back)**: Fantastic book compiling years of learning on software design, and how that can be leveraged to decrease the cost of building software.
+**🤖 Tidy First?: A Personal Exercise in Empirical Software Design (Kent Back)**: Fantastic book compiling years of learning on software design, and how that can be leveraged to decrease the cost of building software.
 
 ## 2023
 
